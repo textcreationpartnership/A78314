@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more true and an exacter relation of the battaile of Keynton, then any formerly. Written by T.C. One of the chaplains in the army, and sent to a friend of his, a learned divine in this city, and by him published for the satisfaction of all such as are desirous to be informed in the truth.</title>
+            <author>T. C., one of the chaplains in the army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78314</idno>
+            <idno type="STC">Wing C137</idno>
+            <idno type="STC">Thomason E128_20</idno>
+            <idno type="STC">ESTC R22151</idno>
+            <idno type="EEBO-CITATION">99871617</idno>
+            <idno type="PROQUEST">99871617</idno>
+            <idno type="VID">156245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156245)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more true and an exacter relation of the battaile of Keynton, then any formerly. Written by T.C. One of the chaplains in the army, and sent to a friend of his, a learned divine in this city, and by him published for the satisfaction of all such as are desirous to be informed in the truth.</title>
+                  <author>T. C., one of the chaplains in the army.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Blackmore, at the Angel in Pauls Churchyard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Novem. 26. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Kineton (Warwickshire) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156245:1" rendition="simple:additions"/>
+            <p>A MORE TRUE AND An exacter Relation Of the Battaile of <hi>KEYNTON,</hi> Then any formerly.</p>
+            <p>Written by <hi>T. C.</hi> One of the Chaplains in the Army, and ſent to a friend of his, a learned Divine in this City, and by him publiſhed for the ſatisfaction of all ſuch as are deſirous to be infor<g ref="char:EOLhyphen"/>med in the truth.</p>
+            <p>Printed for <hi>Edward Blackmore,</hi> at the Angel in <hi>Pauls</hi> Churchyard. <hi>Novem.</hi> 26. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156245:2"/>
+            <pb n="1" facs="tcp:156245:2"/>
+            <head>An Exacter <hi>RELATION</hi> Of the battaile of <hi>KEYNTON, then any formerly.</hi>
+            </head>
+            <opener>
+               <salute>Reverend brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know (as you writ to mee) there are ſeverall and ſundry relations of that bloody battail neere Kynton, ſome ſpeaking after one maner, and ſome after another, reſpecting their owne particular oblig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions and ingagements more then the truth, or to ſatisfy the world of the truth. And therefore according to your deſire I have ſent you although a ſhort yet an exact and a true relation of that battell. Upon the twenty third of October a day dedi<g ref="char:EOLhyphen"/>cated to the honour of <hi>Ignatius Lyola</hi> the father and foun<g ref="char:EOLhyphen"/>der of that cruell and curſed order of the Ieſuits, the Ieſuited
+<pb n="2" facs="tcp:156245:3"/> Papiſts, the laſt yeere Kindled that horrid and horrible rebellion in <hi>Ireland,</hi> riſt, robbing, burning, and mur<g ref="char:EOLhyphen"/>thering all the Brittiſh Proteſtants they could ceaze upon Affirming (as hath been often depoſed) that like the ſuffer<g ref="char:EOLhyphen"/>ings were that day allotted &amp; deſtinated to al the Proteſtants in England, and that they did nothing but what they had commiſſion to doe from England, under the great ſeale. And now this yeare upon the ſame day of that moneth they have by their facinating Charmes, clothed with the Specious garments of maintaining the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, removed his Majeſty, <hi>hinc illae lachrymae,</hi> to ingage himſelfe in a bloody battell againſt the Proteſtants, the true profeſſors of the Goſpell and their Religion, which began on that day, being Sunday, (a goodly Sabbath dayes worke) about two of the clock, and laſted untill darke night. A crueller battel was never fought in the Chriſtian world for the time.</p>
+            <p>The Kings Army had the advantage both of the ground and wind: and beſides thoſe at <hi>Windſor,</hi> and <hi>Worceſter,</hi> we wanted the aſſiſtance of ten Troops of Horſe, ſixe Companies of Dragooners, foure Regiments of Foot, eight Peeces of Canon, with great ſtore of Ammunition, which came not unto us till Sunday at night, and Munday, lying the nights before at <hi>Stratford</hi> upon <hi>Aven,</hi> and in ſeverall other parts thereabouts: which in all probability, and ſo it was confeſſed a<g ref="char:EOLhyphen"/>mongſt them, the Enemie had notice of by Sir <hi>Faith<g ref="char:EOLhyphen"/>full Forteſcue,</hi> who broke faith, and treacherouſly fled the next day unto them.</p>
+            <p>Their Army was about twenty foure thouſand, Horſe and Foot, and we had but thirteene Regiments of Foot, thirty eight Troops of Horſe, and about a thouſand Dragooners.</p>
+            <p>The Enemie came downe <hi>Edge-hill,</hi> where was
+<pb n="3" facs="tcp:156245:3"/> fought a bloody battell in the raigne of <hi>Edward</hi> the fourth, and there they ſet in order their battell, in a faire Plaine at the foot of the Hill, leaving the Hill for a retyring place for their Army, as indeed it was, and much befriended them.</p>
+            <p>Our Army was caſt into three Brigades, the two wings being ſlanked with our Horſe, and placed upon a little round riſing hill betwixt them and <hi>Keynton.</hi> In the left wing were five Regiments under the ſeverall com<g ref="char:EOLhyphen"/>mands of the Lord <hi>Wharton,</hi> the Lord <hi>Mandevill,</hi> Collonel <hi>Cholmley,</hi> Collonell <hi>Eſſex,</hi> and Collonell <hi>Fairfax,</hi> who brought up the rear, our horſe that flanked us were in<g ref="char:EOLhyphen"/>countred by Prince <hi>Roberts</hi> troopes of Cavalliers as they wheeled about the hill to get to our waggons, ſo that they fled diſorderly upon our Foot in the left wing, rou<g ref="char:EOLhyphen"/>ting and making foure Regiments of them to run away, to wit, my Lord <hi>Whartons,</hi> my Lord <hi>Mandevils,</hi> Colonel <hi>Cholmleys,</hi> and Colonel <hi>Eſſexes</hi> Regiments: ſome few Commanders retyring into the maine Body, Colonel <hi>Fairfax</hi> his Regiment then being the onely Regiment remaining of that wing, and moſt of his common ſouldi<g ref="char:EOLhyphen"/>ers alſo took example by their fellows, trod out their foot-ſteps, and ran too.</p>
+            <p>And although their Colonel Sir <hi>William Fairfax,</hi> Lieu<g ref="char:EOLhyphen"/>tenant Colonel <hi>Moyneines,</hi> Sergeant Major <hi>Pane,</hi> with Captaine <hi>Willſhire,</hi> Captaine <hi>Bland,</hi> Captain <hi>Rogers,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Laiton,</hi> and the reſt of his Captains and chief Com<g ref="char:EOLhyphen"/>manders did their utmoſt indeavour to have ſtayed them, yet they could not ſtay above an hundred of them, with whom Colonel <hi>Fairfax,</hi> his Lieutenant Colonel, Major, and the Captains with their Officers marched very cou<g ref="char:EOLhyphen"/>ragiouſly with their Colours in the face of the enemy to our Canons, and fetched them all off but one, and ſo had done that alſo, had they had horſes.</p>
+            <pb n="4" facs="tcp:156245:4"/>
+            <p>This Brigade then being thus ſhattered and routed, the firſt cauſe being more the cowardize of our Horſe, then the valour of the enemies. The Lord of Hoſts ſhewed his power for our deliverance; for then Prince <hi>Robert,</hi> inſtead of falling upon our right wing, fell to plunde<g ref="char:EOLhyphen"/>ring our Waggons, killing our Waggoners, and mur<g ref="char:EOLhyphen"/>thering of poore Countrey women and children: So that thoſe which came to be ſpectators of other mens trage<g ref="char:EOLhyphen"/>dies, acted their owne.</p>
+            <p>At which time, the ſeverall Regiments under the command of the Lord Generall, the Lord <hi>Brooks,</hi> Lord <hi>Roberts,</hi> Colonel <hi>Hollis,</hi> and <hi>Sir Iohn Meldrome,</hi> ſecon<g ref="char:EOLhyphen"/>ded by the ſeverall Troops of Horſe that flanked that Bri<g ref="char:EOLhyphen"/>gade, fell on reſolutely, and made way by dint of ſword through the maine Body of the Kings Army, where every Commander, eſpecially the noble Generall, the Earl of <hi>Eſſex,</hi> ſhewed the part not onely of a valiant Generall, but of a reſolute and couragious ſouldier, ri<g ref="char:EOLhyphen"/>ding from place to place, and encouraging his Army on every ſide, when bullets flew about his ears as thick as haile; ſo that in a ſhort time the Lord Generall of the Kings Army, the Lord <hi>Willouhby,</hi> the Lord <hi>Aubigny,</hi> Sir <hi>Edward Varney</hi> the Standard-bearer, Colonel <hi>Lunsford,</hi> Colonel <hi>Vavaſor,</hi> Colonel <hi>Stradling,</hi> Colonel <hi>Rodney,</hi> Colonel <hi>Iohn Munroe,</hi> with many other great Com<g ref="char:EOLhyphen"/>manders and reſolute Souldiers, were either killed or taken priſoners, their whole Regiments conſiſting of many valiant Souldies, moſt being Papiſts, fighting for their Religion, which their Commanders told them was now at the ſtake, were cut off, very few eſcaping to bring news to their Countrey of the reſt.</p>
+            <p>Which the Welſh and Northerne men that ſhould have made good this breach perceiving, they all fled, with<g ref="char:EOLhyphen"/>out any command, ſhewing very good footmanſhip,
+<pb n="5" facs="tcp:156245:4"/> and verifying the Proverbe, that <hi>One paire of heeles is worth two paire of hands:</hi> And although His Majeſty himſelfe rode after them, perſwading them not to diſhonour their Countrey, but to ſtand to it bravely; yet they wold not ſo much as looke back, but ſaid, they were come not to fight, but to convey His Majeſty to London, for which their Captains promiſed them the riches of that City, and if he would goe with them, they would make good their promiſe: ſo that now all the Enemies Troops and Foot were diſperſed, two Regiments onely excepted, and ſome of thoſe Troops which had beene plundering our Waggons with Prince <hi>Robert,</hi> who returned through by-wayes, and retyred unto Edge<g ref="char:EOLhyphen"/>hills.</p>
+            <p>Then our Army poſſeſſed themſelves of the ground the enemies had at the firſt to fight in, ſtood there all night, &amp; drew back ſome of the Ordnance the enemy had taken be<g ref="char:EOLhyphen"/>fore, with ſome of theirs.</p>
+            <p>The next morning very early we drew up our men in order of battel, and prepared for another onſet: which they perceiving, flouriſhed upon the hils with ſome Troops of Horſe, until they had gotten their Foot, Canon, and Carri<g ref="char:EOLhyphen"/>ages away, and then they all went towards <hi>Banbury,</hi> miſe<g ref="char:EOLhyphen"/>rably rifling and pillaging the Countrry as they went, and we towards night retired to <hi>Warwick</hi> to refreſh our ſelves, the moſt of us having had neither meat nor lodging for two dayes and two nights before.</p>
+            <p>
+               <hi>Thus have you a true relation of that battel of</hi> Kynton, <hi>where were ſlain above 3000. and what ever may be ſaid, yet the King loſt foure for one, for upon Tueſday my ſelfe, with ſome friends and neighbours of</hi> Kynton <hi>and</hi> Welsborn, <hi>viewed the dead then unburyed, and where there was one in our quar<g ref="char:EOLhyphen"/>ters, there were foure in the enemies. I pray God to ſend peace amongſt us, that I may never ſee the like again.</hi>
+            </p>
+            <closer>
+               <signed>T. C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
